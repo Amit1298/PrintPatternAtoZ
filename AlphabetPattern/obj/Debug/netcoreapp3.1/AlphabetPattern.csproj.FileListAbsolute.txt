@@ -1,0 +1,14 @@
+L:\Revision\AlphabetPattern\AlphabetPattern\bin\Debug\netcoreapp3.1\AlphabetPattern.exe
+L:\Revision\AlphabetPattern\AlphabetPattern\bin\Debug\netcoreapp3.1\AlphabetPattern.deps.json
+L:\Revision\AlphabetPattern\AlphabetPattern\bin\Debug\netcoreapp3.1\AlphabetPattern.runtimeconfig.json
+L:\Revision\AlphabetPattern\AlphabetPattern\bin\Debug\netcoreapp3.1\AlphabetPattern.runtimeconfig.dev.json
+L:\Revision\AlphabetPattern\AlphabetPattern\bin\Debug\netcoreapp3.1\AlphabetPattern.dll
+L:\Revision\AlphabetPattern\AlphabetPattern\bin\Debug\netcoreapp3.1\AlphabetPattern.pdb
+L:\Revision\AlphabetPattern\AlphabetPattern\obj\Debug\netcoreapp3.1\AlphabetPattern.csproj.AssemblyReference.cache
+L:\Revision\AlphabetPattern\AlphabetPattern\obj\Debug\netcoreapp3.1\AlphabetPattern.GeneratedMSBuildEditorConfig.editorconfig
+L:\Revision\AlphabetPattern\AlphabetPattern\obj\Debug\netcoreapp3.1\AlphabetPattern.AssemblyInfoInputs.cache
+L:\Revision\AlphabetPattern\AlphabetPattern\obj\Debug\netcoreapp3.1\AlphabetPattern.AssemblyInfo.cs
+L:\Revision\AlphabetPattern\AlphabetPattern\obj\Debug\netcoreapp3.1\AlphabetPattern.csproj.CoreCompileInputs.cache
+L:\Revision\AlphabetPattern\AlphabetPattern\obj\Debug\netcoreapp3.1\AlphabetPattern.dll
+L:\Revision\AlphabetPattern\AlphabetPattern\obj\Debug\netcoreapp3.1\AlphabetPattern.pdb
+L:\Revision\AlphabetPattern\AlphabetPattern\obj\Debug\netcoreapp3.1\AlphabetPattern.genruntimeconfig.cache
